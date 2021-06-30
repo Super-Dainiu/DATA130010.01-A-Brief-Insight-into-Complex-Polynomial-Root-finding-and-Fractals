@@ -14,6 +14,3 @@ Julia.m -- The function to plot Julia Set
 Mandelbrot.m -- The function to plot Mandelbrot Set
 PlotFractal.m -- The function to plot Newton Fractals and a strange Fractal
 ```
-
-## GIF
-
