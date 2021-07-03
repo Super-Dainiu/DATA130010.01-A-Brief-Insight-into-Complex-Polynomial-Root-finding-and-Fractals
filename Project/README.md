@@ -14,4 +14,5 @@ Julia.m -- The function to plot Julia Set
 Mandelbrot.m -- The function to plot Mandelbrot Set
 PlotFractal.m -- The function to plot Newton Fractals and a strange Fractal
 ```
-## [Report](https://github.com/Super-Dainiu/DATA130010.01-A-Brief-Insight-into-Complex-Polynomial-Root-finding-and-Fractals/blob/main/Project/report.pdf)
+## Report
+[Here](https://github.com/Super-Dainiu/DATA130010.01-A-Brief-Insight-into-Complex-Polynomial-Root-finding-and-Fractals/blob/main/Project/report.pdf)
